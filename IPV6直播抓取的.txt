@@ -1,33 +1,3 @@
-
-
-Request Head:
-
-GET /ipv6.txt HTTP/1.1
-accept: */*
-connection: Keep-Alive
-user-agent: MTV
-Host: ww.zouming.com
-Accept-Encoding: gzip
-
-
-Body:
-
-
-
-Response Head:
-
-HTTP/1.1 200 OK
-Server: mohua/mvh
-Date: Thu, 18 Jul 2024 00:39:21 GMT
-Last-Modified: Mon, 15 Jul 2024 12:39:27 GMT
-Content-Type: text/plain
-X-Cache: MISS from Mohua Virtual Host
-Content-Length: 26481
-
-
-Body:
-
-//以下线路地址全部收集自网络公开数据，一切免费，如有冒犯请联系我们删除
 👉关于应用,#genre#
 网传资源置入,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 切勿付费购买,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
